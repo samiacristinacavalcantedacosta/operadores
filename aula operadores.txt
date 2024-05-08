@@ -1,0 +1,18 @@
+<script>
+//verifique se um numero é maior 
+//que 100 e menor que 200 ao mesmo tempo e imprima o resultado
+
+let numero = 60;
+
+if (numero > 100 && numero < 200){
+
+document.write("numero aceito!")
+
+}else{
+document .write ("numero nao aceito")
+}
+
+
+
+
+</script>
